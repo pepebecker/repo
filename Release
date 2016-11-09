@@ -1,0 +1,8 @@
+Origin: Pepe's Example for Cydia
+Label: Cydia Example
+Suite: stable
+Version: 0.9
+Codename: phune
+Architectures: iphoneos-arm
+Components: main
+Description: An Example Repository from HowTo Instructions
