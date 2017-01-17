@@ -1,3 +1,0 @@
-@interface PBRootViewController : UITableViewController
-
-@end
