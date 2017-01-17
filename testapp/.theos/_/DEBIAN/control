@@ -1,0 +1,12 @@
+Package: com.pepebecker.testapp
+Name: Test App
+Architecture: iphoneos-arm
+Description: An awesome application!
+Homepage: http://pepebecker.com/repo/TestApp
+Maintainer: Pepe Becker <mail@pepebecker.com>
+Author: Pepe Becker <mail@pepebecker.com>
+Section: Applications
+Depends: firmware(>= 8.1)
+Icon: file:///Applications/TestApp.app/Appicon57x57.png
+Version: 0.0.1
+Installed-Size: 1308
